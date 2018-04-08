@@ -1,3 +1,4 @@
+# following: https://medium.com/ai-society/gans-from-scratch-1-a-deep-introduction-with-code-in-pytorch-and-tensorflow-cb03cdcdba0f
 import torch
 import torch.nn as nn
 import torch.optim as optim
